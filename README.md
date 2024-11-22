@@ -4,7 +4,8 @@ This project was created from local system
 
 
 BAsic command 
-init - used to create a new repo  - git init
+
+init - used to create a new repo  - git init ( first we made the folder into the system and then this commmand run)
 
 git remote add origint <- link ->
 
@@ -18,3 +19,15 @@ git push origin main  - shorthand - git push -u origin main  = after writing thi
 
 
 created by akash mourya.
+
+
+Branch Commands
+git branch       (to check branch)
+
+git branch -M       (to rename branch)
+
+git checkout  <-branch name -> ( to navigate or work)
+
+git checkout -b <-new branch name-> (to create new branch)
+
+git branch -d <-branch name->     (to delete branch)
